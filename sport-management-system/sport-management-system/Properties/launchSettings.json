@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "sport-management-system": {
+      "commandName": "Project",
+      "commandLineArgs": "../../../../../sample-data/applications/\r\n../../../../../sample-data/courses.csv\r\n../../../../../sample-data/classes.csv\r\n../../../../../sample-data/types.csv"
+    }
+  }
+}
